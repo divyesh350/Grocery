@@ -5,7 +5,6 @@ const initialState = {
   image: "",
   lastName: "",
   email: "",
-  image: "",
   _id: "",
 };
 export const userSlice = createSlice({
